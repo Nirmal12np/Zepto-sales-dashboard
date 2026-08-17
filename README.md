@@ -232,8 +232,3 @@ Possible future enhancements include:
 
 Aspiring **Data Analyst** \| Excel \| SQL \| Python \| Data
 Visualization \| Machine Learning
-
-------------------------------------------------------------------------
-
-⭐ If you find this project useful, consider giving the repository a
-**star**!
